@@ -5,7 +5,7 @@ url: ''
 email: dev.carvalho@protonmail.com 
 highlighter: rouge
 markdown: kramdown
-paginate: 4
+paginate: 2
 permalink: '/blog/:year/:title/'
 paginate_path: '/blog/page:num/'
 facebook: '#'
